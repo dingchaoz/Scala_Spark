@@ -1,0 +1,12 @@
+"""
+Notes taken at 07/25/2016 - 07/27/2016
+"""
+
+tuple index starts from 1, while array, list index starts from 0
+
+// Two ways to create empty list in Scala
+val list = List.empty[String]
+var list: List[String] = list()
+
+json, xml, text files are easily handled by Spark
+persist and unpersist

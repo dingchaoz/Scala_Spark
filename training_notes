@@ -10,3 +10,11 @@ var list: List[String] = list()
 
 json, xml, text files are easily handled by Spark
 persist and unpersist
+
+pipeline, vectorizer
+
+Great ML examples:
+https://spark.apache.org/docs/latest/ml-guide.html
+
+RDD vs DataFrames vs Datasets
+http://www.agildata.com/apache-spark-rdd-vs-dataframe-vs-dataset/
